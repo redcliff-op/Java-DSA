@@ -19,6 +19,6 @@ public class Pair_Sum_to_0 {
         count--;
       }
     }
-    return count;
+    return count/2;
 	}
 }
